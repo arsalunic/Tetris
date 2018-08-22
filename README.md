@@ -22,4 +22,4 @@ I tried to use the original scoring system as well as speed increments. Here are
 	* http://tetris.wikia.com/wiki/Scoring 
 
 //Contributions
-A huge thanks to Junaid Farooqui and Thuong Mai, who helped me out on this one.
+A huge thanks to Jeff and Arsalan, who helped me out on this one.
